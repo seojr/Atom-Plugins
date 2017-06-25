@@ -9,3 +9,6 @@ Quickly add require/import statements to any files/node_modules.
 
 [atom-ternjs](https://atom.io/packages/atom-ternjs)
 JavaScript code intelligence for atom with Tern.
+
+[minimap](https://atom.io/packages/minimap)
+A preview of the full source code.
