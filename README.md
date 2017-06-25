@@ -1,7 +1,5 @@
 Atom IDE - https://atom.io/
 
-The useful plugins of atom ide.
-
 # Atom-Plugins
 [atom-runner](https://atom.io/packages/atom-runner)
 Runs scripts inside of Atom.
