@@ -12,3 +12,6 @@ JavaScript code intelligence for atom with Tern.
 
 [minimap](https://atom.io/packages/minimap)
 A preview of the full source code.
+
+[platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
+A terminal package for Atom, complete with themes, API and more for PlatformIO IDE. Fork of terminal-plus.
